@@ -1,0 +1,55 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  Color primaryColor = const Color(0xff020206);
+  Color secondaryColor = const Color(0xffCE93D0);
+  Color textColor = const Color(0xff2C2C2C);
+
+  Color black = const Color(0xff000000);
+  Color white = const Color(0xFFffffff);
+  Color red = const Color(0xffDC4444);
+  Color darkRed = const Color(0xffC91818);
+  Color transparent = const Color(0x0000ffff);
+  Color textFieldFillColor = const Color(0xffD9D9D9);
+  Color lightGreyColor = const Color(0xff707070);
+  Color darkGreenColor = const Color(0xff1D4827);
+  Color greyBackgroundColor = const Color(0xffF5F5F5);
+  Color backgroundColor = const Color(0xffFBFBFB);
+  Color lightGreenColor = const Color(0xffE6EEE7);
+  Color yellowColor = const Color(0xffF79A2B);
+  Color fillColor = const Color(0xffF9F9F9);
+  Color hintColor = const Color(0xffA2A2A2);
+  Color borderColor = const Color(0xffECECEC);
+  Color greyColor = const Color(0xffCECECE);
+  Color textBlueColor = const Color(0xff121212);
+  Color unFocusColor = const Color(0xffB2BAC1);
+  Color purpleColor = const Color(0xff1A192F);
+  Color skyGreyColor = const Color(0xff748A9D);
+  Color lightBrownColor = const Color(0xff999999);
+  Color circularBorderColor = const Color(0xff7E7E7E);
+  Color whiteGreyColor = const Color(0xffACACAC);
+  Color offWhiteColor = const Color(0xffF7F8FC);
+  Color shadowColor = const Color(0xff6D6D6D);
+  Color darkGreyColor = const Color(0xff6A6A6A);
+  Color darkGrey2Color = const Color(0xff8B8B8B);
+  Color dividerColor = const Color(0xffF2F2F2);
+  Color settingTile = const Color(0xffF2EFE8);
+  Color inActiveColor = const Color(0xffCDCDCD);
+  Color shadowSecondColor = const Color(0xff9E9E9E);
+  Color borderColor1 = const Color(0xffA4A4A4);
+  Color greenColor = const Color(0xffD9DFD2);
+  Color brownColor = const Color(0xffEEECE8);
+  Color greyTextColor = const Color(0xff5E5E5E);
+  Color darkRed2 = const Color(0xffBF2525);
+  Color unselectedTag = const Color(0xff9B9B9B);
+  Color bgCircle = const Color(0xffD1D4D8);
+  Color offWhiteColor2 = const Color(0xffFAFAFA);
+  Color greenColor2 = const Color(0xff355E00);
+  Color blockChatHead = const Color(0xffC9C9C9).withOpacity(0.62);
+  Color lightGreen = const Color(0xff30AE48).withOpacity(0.09);
+  Color borderColor2 = const Color(0xffD4D4D4);
+  Color goldenColor = const Color(0xffCB9540);
+  Color goldenColor2 = const Color(0xffFFAD2B);
+  Color mapCircleColor = const Color(0xff224E2B);
+  Color infoColor = const Color(0xff95989A);
+}
